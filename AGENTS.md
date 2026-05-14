@@ -10,7 +10,9 @@ Refer to the `taste.md` document
 
 ### Write To A Small Room
 
-I am not trying to speak to everyone. I am speaking to a small group of curious, thoughtful people who want to understand technology, design, AI, and the future with more care.
+I am not trying to speak to everyone. I am speaking to a small group of ambitious professionals who work in AI but also understand the moral, aesthetic, and social cost of how that future gets made. 
+
+People who left big tech to do art or the opposite, artists who work in big tech.
 
 Optimize for resonance with that room, not broad appeal. Avoid flattening ideas to chase generic virality.
 
@@ -18,17 +20,23 @@ Optimize for resonance with that room, not broad appeal. Avoid flattening ideas 
 
 A great hook is 90% of the video. It should be a clear and engaging.
 
+### Ideal Length
+
+Aim for 60-90 seconds as the default length for TikTok and Reels scripts. This is a flexible target, not a strict rule: let the idea be shorter when it is naturally sharp, and longer when the argument or story genuinely needs more room.
+
 ### Think In Public With Shape
 
 The work should feel like a video essay, but not vague.
 
 ### Become Known For Frames, Not Takes
 
-Avoid shallow hot takes. Build reusable ways of seeing.
+Avoid shallow hot takes. Build reusable ways of seeing, but do not sand away the actual point of view.
 
 When developing a video, look for the underlying frame: the distinction, mental model, tension, or language that someone can carry into other situations.
 
-### Be Serious Without Being Self-Serious
+A frame should clarify the personal take, not replace it. Start from the honest reaction: curiosity, frustration, suspicion, awe, discomfort, delight, or uncertainty. Then ask what that reaction is detecting.
+
+### Don't be too Self-Serious
 
 Talk about important things with care, humility, and warmth. Avoid grandstanding. Avoid pretending to know more than I do.
 
@@ -40,7 +48,8 @@ When helping draft, critique, or brainstorm:
 
 - Start by identifying the central question.
 - Look for a strong, timely hook, but do not let the hook consume the piece.
-- Push toward a reusable frame rather than a one-off opinion.
+- Push toward a reusable frame rather than a one-off opinion, while preserving the honest personal take underneath it.
+- Ask whether the script contains a sentence that only I would say. If not, it may be too generic or over-filtered.
 - Keep the voice thoughtful, warm, direct, and conversational.
 - Preserve nuance, but make the shape of the idea easy to follow.
 
